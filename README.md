@@ -1870,6 +1870,24 @@ We have benefited from the following excellent projects. If you’re interested,
 14. [BioClaw](https://github.com/Runchuan-BU/BioClaw)
 15. [ClawBio](https://github.com/ClawBio/ClawBio)
 
+## Citation
+
+```bib
+@misc{freedomintelligence2026openclaw,
+      title={OpenClaw-Medical-Skills},
+      author={Rongsheng Wang, Dongli He, Benyou Wang},
+      year={2026},
+      publisher = {GitHub},
+      journal = {GitHub repository},
+      howpublished = {\url{https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills}},
+}
+```
+
+or
+
+```bib
+王荣胜，何东立，王本友. OpenClaw-Medical-Skills：面向智能体的医疗技能库[EB/OL]. GitHub, 2026. https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills
+```
 
 ## Star History
 

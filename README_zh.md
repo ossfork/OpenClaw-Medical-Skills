@@ -1858,3 +1858,22 @@ Agent 应当列出已安装的技能及其功能说明。
 13. [LLMs-Universal-Life-Science-and-Clinical-Skills-](https://github.com/mdbabumiamssm/LLMs-Universal-Life-Science-and-Clinical-Skills-)
 14. [BioClaw](https://github.com/Runchuan-BU/BioClaw)
 15. [ClawBio](https://github.com/ClawBio/ClawBio)
+
+## 引用
+
+```bib
+@misc{freedomintelligence2026openclaw,
+      title={OpenClaw-Medical-Skills},
+      author={Rongsheng Wang, Dongli He, Benyou Wang},
+      year={2026},
+      publisher = {GitHub},
+      journal = {GitHub repository},
+      howpublished = {\url{https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills}},
+}
+```
+
+或者
+
+```bib
+王荣胜，何东立，王本友. OpenClaw-Medical-Skills：面向智能体的医疗技能库[EB/OL]. GitHub, 2026. https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills
+```
